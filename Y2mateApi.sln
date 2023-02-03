@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Y2mateApi", "Y2mateApi\Y2mateApi.csproj", "{E8C35B4A-E68F-411A-8789-FED9881F0393}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Y2mateApi.DemoConsole", "Y2mateApi.DemoConsole\Y2mateApi.DemoConsole.csproj", "{F83D9679-1C5A-449B-8854-5DBCE36CCF87}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{85BA0909-987E-4222-8852-4DF08F2796CE}"
+	ProjectSection(SolutionItems) = preProject
+		Directory.Build.props = Directory.Build.props
+		favicon.ico = favicon.ico
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E8C35B4A-E68F-411A-8789-FED9881F0393}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8C35B4A-E68F-411A-8789-FED9881F0393}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8C35B4A-E68F-411A-8789-FED9881F0393}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8C35B4A-E68F-411A-8789-FED9881F0393}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F83D9679-1C5A-449B-8854-5DBCE36CCF87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F83D9679-1C5A-449B-8854-5DBCE36CCF87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F83D9679-1C5A-449B-8854-5DBCE36CCF87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F83D9679-1C5A-449B-8854-5DBCE36CCF87}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {67443DD5-D65B-4A6C-892A-F490B85B00B4}
+	EndGlobalSection
+EndGlobal
